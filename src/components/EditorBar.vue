@@ -9,6 +9,7 @@
     .text {
         border: 1px solid #ccc;
         height: 500px;
+        text-align: left;
     }
 </style>
 <template>
